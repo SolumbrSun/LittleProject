@@ -55,5 +55,5 @@ def write2Excel(case_list):
     fillcase.save(Excel_name)
 
 if __name__ == '__main__':
-    xmind_file = "E:\\Python\\LittleProject\\Xmind2Excel\\sun\\com\\python\\国庆打劫小肥仔项目_测试方案_孙建东.xmind"  # xmind文件
+    xmind_file = "E:\\Python\\LittleProject\\Xmind2Excel\\sun\\com\\python\\国庆打劫小肥仔项目_测试方案_SolumbrSun.xmind"  # xmind文件
     getXmindJson(xmind_file)
